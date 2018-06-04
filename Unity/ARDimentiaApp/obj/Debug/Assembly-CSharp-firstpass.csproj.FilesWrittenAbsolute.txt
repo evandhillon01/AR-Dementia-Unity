@@ -1,0 +1,17 @@
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/edhillon3/Documents/ARDimentiaApp/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/edhillon3/Documents/ARDimentiaApp/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/UnityEngine.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/UnityEditor.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Mono.Cecil.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Unity.DataContract.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/edhillon3/Documents/ARDimentiaApp/Temp/bin/Debug/Mono.Cecil.Mdb.dll
